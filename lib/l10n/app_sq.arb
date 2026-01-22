@@ -1,0 +1,79 @@
+{
+  "appTitle": "EV Charge UI",
+  "profileTitle": "Profili",
+  "settingsTitle": "Cilësimet",
+  "notificationsTitle": "Njoftimet",
+  "notificationsSubtitle": "Njoftime push, njoftime me email",
+  "darkModeTitle": "Modaliteti i errët",
+  "darkModeSubtitle": "Aktivo temën e errët",
+  "languageTitle": "Gjuha",
+  "selectLanguageTitle": "Zgjidh gjuhën",
+  "english": "Anglisht",
+  "albanian": "Shqip",
+  "personalInfoVehicleTitle": "Informacion Personal & Automjet",
+  "achievementsTitle": "Arritjet",
+  "leaderboardTitle": "Renditja",
+  "leaderboardSubtitle": "Shiko kampionët e eko‑pikëve",
+  "aboutTitle": "Rreth Aplikacionit",
+  "aboutSubtitle": "Versioni i aplikacionit, termat, privatësia",
+  "aboutAppName": "EVCharge",
+  "version": "Versioni {version}",
+  "aboutDescription": "EVCharge të ndihmon të gjesh dhe menaxhosh stacionet e karikimit në gjithë Shqipërinë me lehtësi.",
+  "totalCharges": "Karikimet Totale",
+  "co2Saved": "CO₂ e kursyer",
+  "ecoPointsTitle": "Pikë Eko",
+  "guestUser": "Përdorues i ftuar",
+  "noVehicle": "Pa automjet",
+  "deleteAccount": "Fshi llogarinë",
+  "unlocked": "të zhbllokuara",
+  "privacyPolicy": "Politika e Privatësisë",
+  "termsOfService": "Kushtet e Shërbimit",
+  "contactSupport": "Kontakto Mbështetjen",
+  "close": "Mbyll",
+  "logOut": "Dil",
+  "privacyBody": "Ne respektojmë privatësinë tuaj. Kjo politikë shpjegon çfarë të dhënash mbledhim dhe si i përdorim ato.\n\nÇfarë mbledhim\n• Informacion profili që jepni (emri, emaili, automjeti).\n• Të dhëna përdorimi (kërkime, shikime stacionesh, sesione karikimi).\n• Informacion pajisjeje për diagnostikim (modeli, versioni i OS, versioni i aplikacionit).\n\nSi i përdorim të dhënat tuaja\n• Për të ofruar, përmirësuar dhe siguruar përvojën e aplikacionit.\n• Për të personalizuar rekomandimet dhe veçoritë.\n• Për të zbuluar abuzimin dhe për të siguruar besueshmërinë e shërbimit.\n\nRuajtja e të dhënave\nI ruajmë të dhënat vetëm aq sa është e nevojshme për qëllimet e mësipërme ose sipas ligjit.\n\nTë drejtat tuaja\nMund të kërkoni akses, korrigjim ose fshirje të të dhënave personale. Na kontaktoni në evcharging@gmail.com.",
+  "termsBody": "Duke përdorur EVCharge, ju pranoni këto kushte.\n\nPërdorimi i Shërbimit\n• Duhet ta përdorni aplikacionin në mënyrë ligjore dhe me përgjegjësi.\n• Ne mund të përditësojmë veçoritë dhe përmbajtjen në çdo kohë.\n\nLlogaritë\n• Ju jeni përgjegjës për ruajtjen e konfidencialitetit të llogarisë suaj.\n\nSesione Karikimi & Siguria\n• Ndiqni gjithmonë udhëzimet e sigurisë së stacionit dhe rregullat lokale.\n• Çmimet dhe disponueshmëria mund të ndryshojnë dhe variojnë sipas vendndodhjes.\n\nKufizimi i Përgjegjësisë\n• EVCharge ofrohet “siç është” pa garanci. Ne nuk jemi përgjegjës për dëme të tërthorta ose rastësore.\n\nNdryshimet\n• Ne mund t’i modifikojmë këto kushte; vazhdimi i përdorimit nënkupton pranimin.\n\nKontakti\nPër pyetje, kontaktoni evcharging@gmail.com ose 0697777778.",
+  "cancel": "Anulo",
+  "confirm": "Konfirmo",
+  "continueAction": "Vazhdo",
+  "ok": "OK",
+  "done": "U krye",
+  "goodbyeTitle": "Mirupafshim!",
+  "thanksWithName": "Faleminderit {firstName}!",
+  "@thanksWithName": {
+    "placeholders": {
+      "firstName": {
+        "type": "String"
+      }
+    }
+  },
+  "thanksGeneric": "Faleminderit!",
+  "goodbyeMessage": "Ju faleminderit që na zgjodhët. Shpresojmë t'ju shohim sërish shpejt!",
+  "greenTip": "Së bashku për një të ardhme më të gjelbër! 🌱",
+  "deleteConfirmWithName": "Jeni i sigurt që dëshironi të fshini llogarinë e {name}? Kjo do të fshijë të gjitha të dhënat tuaja dhe nuk do të mund të rikthehet.",
+  "@deleteConfirmWithName": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "deleteConfirmGeneric": "Jeni i sigurt që dëshironi të fshini llogarinë tuaj? Kjo do të fshijë të gjitha të dhënat tuaja dhe nuk do të mund të rikthehet."
+  ,
+  "couponCodeTitle": "Kodi kuponit",
+  "couponLockedDescription": "Plotëso të gjitha arritjet për të zhbllokuar kuponin.",
+  "couponUnlockedDescription": "Ke zhbllokuar një shpërblim prej {amount} ALL.",
+  "@couponUnlockedDescription": {
+    "placeholders": {
+      "amount": { "type": "int" }
+    }
+  },
+  "revealCoupon": "Shfaq kuponin",
+  "locked": "I kyçur",
+  "rewardAlreadyRedeemed": "Shpërblimi është përdorur tashmë.",
+  "couponRevealedSnack": "Kuponi u shfaq: {code} (+{amount} ALL)",
+  "@couponRevealedSnack": {
+    "placeholders": {
+      "code": { "type": "String" },
+      "amount": { "type": "int" }
+    }
+  }
+}
